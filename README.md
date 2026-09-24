@@ -144,46 +144,33 @@ graph LR
 
 <div align="center">
 
-<b>◆ Nmap Enumeration</b><br>
+
 <img width="900" src="https://github.com/user-attachments/assets/05c939c5-b4e7-4be0-9fbc-a9ab66e9f219"/><br><br>
 
-<b>◆ FTP Anonymous Access</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/a10b2882-77dd-4a32-8618-42da51034ae1"/><br><br>
 
-<b>◆ SMB Share Discovery</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/5fc401f1-c741-467c-b7a2-afa8b196059b"/><br><br>
 
-<b>◆ Enumeration Output</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/1cbe9d28-2ac9-4014-9015-79507e7ac9dd"/><br><br>
 
-<b>◆ Credentials & Access</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/295f16bb-2394-4ddf-b2d9-34aefe0595ff"/><br><br>
 
-<b>◆ Shell Obtained</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/13f51afc-71a3-43c0-99a2-8076a5d3ccc5"/><br><br>
 
-<b>◆ Post Exploitation</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/e0d0aa0b-4c66-4092-a413-cca98997b4f0"/><br><br>
 
-<b>◆ PrivEsc Enumeration</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/bd930e17-27a7-4062-9e88-662dd7d5ef73"/><br><br>
 
-<b>◆ Cron Script Hijack</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/b5a81947-3a8c-4307-a1a4-0e30c8806ae0"/><br><br>
 
-<b>◆ Payload Upload</b><br>
 <img width="500" src="https://github.com/user-attachments/assets/a81d858a-1012-42cc-aa39-543701b4d026"/><br><br>
 
-<b>◆ Root Shell</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/8f0ad26f-4d79-44e3-b71b-3eacf9a3b17f"/><br><br>
 
-<b>◆ Root Flag Captured</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/9bfa3fe5-75f1-449b-954b-467a2d91b297"/><br><br>
 
-<b>◆ Final Verification</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/26259c36-33f4-48eb-803d-132dd51a8097"/><br><br>
 
-<b>◆ Bonus</b><br>
 <img width="900" src="https://github.com/user-attachments/assets/9c9b2de7-5693-406c-8674-c1c58381f9df"/><br>
 
 </div>
