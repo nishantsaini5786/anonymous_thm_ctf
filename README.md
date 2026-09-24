@@ -120,6 +120,7 @@ root.txt  →  4d930091c31a622a7ed10f27999af363
 <img width="1920" height="1080" alt="Screenshot_2026-09-24_21_56_32" src="https://github.com/user-attachments/assets/e0d0aa0b-4c66-4092-a413-cca98997b4f0" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-24_22_43_38" src="https://github.com/user-attachments/assets/bd930e17-27a7-4062-9e88-662dd7d5ef73" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-24_22_34_19" src="https://github.com/user-attachments/assets/b5a81947-3a8c-4307-a1a4-0e30c8806ae0" />
+<img width="500" height="197" alt="put" src="https://github.com/user-attachments/assets/a81d858a-1012-42cc-aa39-543701b4d026" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-24_23_19_12" src="https://github.com/user-attachments/assets/8f0ad26f-4d79-44e3-b71b-3eacf9a3b17f" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-24_23_19_53" src="https://github.com/user-attachments/assets/9bfa3fe5-75f1-449b-954b-467a2d91b297" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-24_23_25_59" src="https://github.com/user-attachments/assets/26259c36-33f4-48eb-803d-132dd51a8097" />
